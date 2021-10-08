@@ -1,0 +1,19 @@
+[ 
+    {
+        "id": 1,
+        "title": "Title 1",
+        "body":  "lorem ipsum 1"
+    },
+
+    {
+        "id": 2,
+        "title": "Title 2",
+        "body":  "lorem ipsum 2"
+    },
+
+    {
+        "id": 3,
+        "title": "Title 3",
+        "body":  "lorem ipsum 3"
+    }
+]
